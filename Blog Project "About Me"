@@ -1,0 +1,269 @@
+<DOCTYPE html>
+    <html>
+    <head>
+            <title>My Blog</title>
+            <img style="position:absolute; top: 0px; left:800px; height:150px; width: 180px" src="https://webstockreview.net/images/clipart-border-cartoon-4.png">
+        
+        </div>
+        
+        </head>
+        <body>
+            <body style="background-color: darkgray;"
+            <!-- header start -->
+
+            <div id="header" class="section">
+                <img alt="" class="img-circle" src="https://code.sololearn.com/Icons/Avatars/0.jpg">
+            </div>
+
+
+
+
+
+
+        <!-- About Me section start -->
+        
+       <div class="title">
+               <h1 style="font-family: comic sans MS; color: mediumblue" ><span>Apie Mane</span></h1>
+           </div>
+           
+           
+           <div class="section">
+           <p style="font-family: comic sans MS"; class="round">
+                Labas, mano vardas <strong>Žygimantas</strong>. Programavimas man yra labai įdomi tema. Ji ne tik išmoko, kaip pasidaryti puslapį, bet ir kaip suprogramuoti žaidimą, visi žaidimai šiais laikais yra progrmuojami naudojami įvairių programų. Man <strong>šešiolika metų</strong> ir aš mokausi <strong>IIg klasėje</strong>. Man yra labai sunku, nes mokykloje užduoda labai daug namų darbų.
+                </p>
+       <div class="quote">
+       <p class="quote">"Don't risk it for a chocolate biscuit"</p>
+      </div>
+      </div>
+       
+       <!--About Me section end-->
+       
+       <!--My skills section start-->
+       
+      <div class="second">
+      <h1 style="font-family: comic sans MS; color:mediumblue"><span>Mano igudziai</span></h1>
+      </div>
+      
+    
+       
+     <img style="position:absolute; top: 350px; left:800px; height:150px; width: 230px" src="https://webstockreview.net/images/clipart-border-cartoon-4.png">
+      
+       
+       
+       
+       
+        
+     
+               <li style="font-family: comic sans MS">HTML</li>
+               
+               <progress style="position: absolute; top: 530px; left: 350px;" min="0" max="100" value="50"></progress>
+                
+                <li style="font-family: comic sans MS">Krepšinis</li>
+
+                <progress style="position: absolute; top: 560px; left: 350px;" min="0" max="100" value="70"></progress></div>
+
+            <li style="font-family: comic sans MS">kompiuteriniai žaidimai</li>
+
+            <progress style="position: absolute; top: 600px; left: 360px;" min="0" max="100" value="90"></progress></div>
+
+          <!--My skills section end -->
+          
+        <!--My schedule section start-->
+        
+         <div class="third">
+      <h1 style="font-family: comic sans MS; color: mediumblue"><span>Mano pamokos</span></h1>
+      </div>
+      
+      <img style="position:absolute; top: 630px; left:790px; height:150px; width: 250px" src="https://webstockreview.net/images/clipart-border-cartoon-4.png">
+      <div class="table">
+      
+        <table border="2">
+
+            <tr>
+                <th>Pirmadienis</th>
+                <th>Antradienis</th>
+                <th>Trečiadienis</th>
+                <th>Ketvirtadienis</th>
+                <th>Penktadienis</th>
+            </tr>
+            
+            
+            
+            <td style="font-family: comic sans MS">Fizika</td>
+            <td style="font-family: comic sans MS">Technologijos</td>
+            <td style="font-family: comic sans MS">Lietuvių kalba</td>
+            <td style="font-family: comic sans MS">Kūno kultūra</td>
+            <td style="font-family: comic sans MS">Lietuvių kalba</td>
+            <tr></tr>
+            <td style="font-family: comic sans MS">Matematika</td>
+            <td style="font-family: comic sans MS">Informatika</td>
+            <td style="font-family: comic sans MS">Muzika</td>
+            <td style="font-family: comic sans MS">Pilietiškumo pagrindai</td>    
+            <td style="font-family: comic sans MS">Lietuvių kalba</td>
+            <tr></tr>
+            <td style="font-family: comic sans MS">Matematika</td>
+            <td style="font-family: comic sans MS">Istorija</td>
+            <td style="font-family: comic sans MS">Geografija</td>
+            <td style="font-family: comic sans MS">Istorija</td>    
+            <td style="font-family: comic sans MS">Matematika</td>
+            <tr></tr>
+            <td style="font-family: comic sans MS">Lietuvių kalba</td>
+            <td style="font-family: comic sans MS">Biologija</td>
+            <td style="font-family: comic sans MS">Kūno kultūra</td>
+            <td style="font-family: comic sans MS">Chemija</td>    
+            <td style="font-family: comic sans MS">Matematika</td>
+            <tr></tr>
+            <td style="font-family: comic sans MS">Lietuvių kalba</td>
+            <td style="font-family: comic sans MS">Vokiečių kalba</td>
+            <td style="font-family: comic sans MS">Dailė</td>
+            <td style="font-family: comic sans MS">Anglų kalba</td>    
+            <td style="font-family: comic sans MS">Chemija</td>
+            <tr></tr>
+            <td style="font-family: comic sans MS">Anglų kalba</td>
+            <td style="font-family: comic sans MS">Matematika</td>
+            <td style="font-family: comic sans MS">Etika</td>
+            <td style="font-family: comic sans MS">Vokiečių kalba</td>    
+            <td style="font-family: comic sans MS">Fizika</td>
+            <tr></tr>
+            <td style="font-family: comic sans MS;">Ekonomika</td>
+            <td></td>
+            <td style="font-family: comic sans MS">Anglų kalba</td>
+            <td></td>
+            <td></td>
+      </table>
+</div>
+            <!--My schedule section end-->
+
+
+            <!--Contact me section start-->
+     
+            <div class="four">
+                <h1 style="font-family: comic sans MS; color:mediumblue"><span>Kontaktuokite mane</span></h1>
+                </div>
+                
+                <img style="position:absolute; top: 1300px; left:750px; height:150px; width: 320px" src="https://webstockreview.net/images/clipart-border-cartoon-4.png">
+
+                <div class="contact">
+                <form>
+
+                    <input name="name" placeholder="Name" type="text" /><br/>
+                    <input name="email" placeholder="email" type="email" /><br/>
+                    <textarea name="message" placeholder="message"></textarea>
+                    <input type="submit" value="SEND" class="submit" />
+                    </form>
+
+
+</div>
+<div class="contacts">
+        <h3 style="font-family: comic sans MS; color: mediumblue; position:absolute; top: 800px; left: 780px;">Sekite mane</h3>
+        <a href="https://twitter.com/home" target="blank"></a>
+        <img src="https://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s1600/Twitter+logo+2012.png" style="position: absolute; top:900px; left: 750px; width: 100px; height: 100px;">
+        <a href="https://www.facebook.com/" target="blank" ></a>
+        <img src="https://i.pinimg.com/originals/30/99/af/3099aff4115ee20f43e3cdad04f59c48.png"  style="position: absolute; top:900px; left: 950px; width: 100px; height: 100px;">
+        <div class="copywrite">
+        &copy; 2020 My Blog.
+        </div>
+
+    </div>
+
+
+                </form>
+
+
+
+
+       </body>
+      
+      
+      
+      <style>        
+          p {
+      font-size: 20px;
+    }
+    
+        div.title {
+      position: relative;
+      left: 800px;
+      top: 40px;
+      
+    }
+        div.section {
+        position: relative;
+        top: 110px;
+        background-color: gray;
+        border-radius: 10px;
+        }
+        
+        div.quote {
+        position: relative;
+        left: 1500px;
+        top: 1px;
+        
+    }
+    
+        div.second {
+        position:relative;
+        left:800px;
+        top:170px;
+        }
+    
+        
+    
+        li {
+        font-size: 20px;
+        position:relative;
+        left:100px;
+        top:250px;
+        background-color: gray;
+        border-radius: 10px;
+        }
+        
+        
+        div.third {
+        position:relative;
+        top:300px;
+        left: 800px;
+        }
+
+        div.table {
+            position: relative;
+            top: 500px;
+            left:600px;
+        }
+        
+        div.four {
+
+            position: relative;
+            top: 650px;
+            left: 750px;
+
+        }
+        div.contact {
+            position:relative;
+            top: 800px;
+            left: 750px;
+           
+        }
+        div.contacts {
+
+
+            position: relative;
+            left: 520 px;
+            bottom: 0px;
+        }
+        
+        div.copywrite {
+
+            position:relative;
+            left: 520px;
+            top: 1000px;
+        }
+            
+}
+        
+        }
+
+        
+    </style>
+    
+    </html>
